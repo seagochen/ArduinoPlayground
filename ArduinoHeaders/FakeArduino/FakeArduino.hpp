@@ -25,6 +25,7 @@ extern void loop();
 #include "Interrupts.hpp"
 #include "Communication.hpp"
 #include "USB.hpp"
+#include "Utilities.hpp"
 
 int main() {
     // To set parameters or configurations here
