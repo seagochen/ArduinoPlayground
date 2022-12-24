@@ -8,4 +8,5 @@ void setup() {
 
 void loop() {
     std::cout << "play the fake arduino playground" << std::endl;
+    std::cout << abs(-13) << std::endl;
 };
